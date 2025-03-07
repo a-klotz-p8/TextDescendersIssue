@@ -90,6 +90,7 @@ function App(): React.JSX.Element {
 
 const styles = StyleSheet.create({
   container: {
+    backgroundColor: 'white',
     height: '100%',
     width: '100%',
     gap: 20,
